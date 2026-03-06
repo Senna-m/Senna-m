@@ -1,8 +1,35 @@
-# 👩🏻‍💻 Nathalie Senna
+# 👩🏻‍💻 Olá, eu sou Nathalie
 
-**`Desenvolvedora FullStack`**
+Sou estudante focada em **Análise de Dados e Desenvolvimento Front-End**.
 
-Me chamo Nathalie Senna, tenho 25 anos e sou natural de Salvador. Me formei em Biomedicna em 2022. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estacio. Sou apaixonada por tecnologia e saúde.
+Tenho interesse em transformar dados em insights e desenvolver interfaces web modernas.
+
+📊 Áreas de interesse:
+- Data Analysis
+- Data Visualization
+- Web Development
+
+💻 Tecnologias
+
+**Data**
+- Python
+- Pandas
+- SQL
+- Power BI
+- Excel
+
+**Front-End**
+- HTML
+- CSS
+- JavaScript
+
+**Ferramentas**
+- Git
+- GitHub
+- VS Code
+
+📫 Contato
+- Email: nathaliesenna.m@gmail.com
 
 ---
 
