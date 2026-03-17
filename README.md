@@ -1,81 +1,88 @@
-# 👩🏻‍💻 Olá, eu sou Nathalie
+# 👩‍💻 Nathalie Senna
 
-Sou estudante focada em **Análise de Dados e Desenvolvimento Front-End**.
+Desenvolvedora em formação com foco em **Python, IA aplicada e desenvolvimento full stack**.  
+Experiência em análise de dados clínicos e construção de soluções que integram **backend, machine learning e interfaces web**.
 
-Tenho interesse em transformar dados em insights e desenvolver interfaces web modernas.
+🎯 Meu objetivo é construir produtos que resolvam problemas reais, principalmente nas áreas de **saúde, dados e automação com IA**.
 
-📊 Áreas de interesse:
-- Data Analysis
-- Data Visualization
-- Web Development
+---
 
-💻 Tecnologias
+## 🧠 Principais Competências
 
-**Data**
-- Python
-- Pandas
-- SQL
-- Power BI
-- Excel
+- Python (Pandas, APIs, automação)
+- Machine Learning (CatBoost, Scikit-learn)
+- Desenvolvimento Backend (Flask, FastAPI - em evolução)
+- Integração de APIs
+- Streamlit (apps interativos)
+- SQL / MySQL
+- Uso de IA no desenvolvimento (LLMs, prompt engineering)
 
-**Front-End**
-- HTML
-- CSS
-- JavaScript
+---
 
-**Ferramentas**
-- Git
-- GitHub
-- VS Code
+## 🚀 Projetos em Destaque
 
-📫 Contato
+### 🔬 Preditor de Anemia
+Sistema de apoio ao diagnóstico baseado em dados hematológicos + critérios da OMS.
+
+- Modelo preditivo com CatBoost
+- Validação clínica com regra médica
+- Interface com Streamlit
+
+📌 Destaque: combinação de IA + regra clínica para maior confiabilidade
+
+---
+
+### 🧪 Chatbot de Exames Laboratoriais
+Assistente inteligente para dúvidas sobre exames clínicos.
+
+- Integração com LLM (Gemini)
+- Prompt engineering para respostas seguras
+- Controle de contexto e histórico de conversa
+
+📌 Destaque: aplicação prática de IA em saúde
+
+---
+
+### 🏥 Lab Vilas — Sistema Web para Laboratório
+Aplicação full stack com backend, banco de dados e painel administrativo.
+
+- Backend em Flask com API REST
+- Banco de dados MySQL
+- Painel admin protegido por API Key
+- Integração frontend ↔ backend via Fetch API
+
+📌 Destaque: fluxo completo de aplicação web
+
+---
+
+### 🚐 Assistente de Tráfego (Logística)
+Sistema preditivo para recomendação de veículos com menor consumo.
+
+- Modelo CatBoost para previsão de consumo
+- API para recomendação
+- Interface com Streamlit
+
+📌 Destaque: aplicação de ML para otimização de custos
+
+---
+
+## 🔄 Próximos Passos
+
+- Evoluir projetos para arquitetura com FastAPI
+- Implementar autenticação com JWT
+- Deploy em cloud (AWS / GCP)
+- Adicionar testes automatizados
+- Expandir uso de IA em produtos
+
+---
+
+## 📫 Contato
+
+- GitHub: https://github.com/Senna-m
+- LinkedIn: https://linkedin.com/in/nathalie-senna-a37b483b0/
 - Email: nathaliesenna.m@gmail.com
 
 ---
 
-### 🤖 Linguagens e Tecnologias
-
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<br/>
-<br/>
+💡*“Construo soluções que conectam dados, tecnologia e saúde para gerar impacto real.”*
 
