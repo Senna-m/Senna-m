@@ -1,7 +1,6 @@
 # 👩‍💻 Nathalie Senna
 
-Desenvolvedora em formação com foco em **Python, IA aplicada e desenvolvimento full stack**.  
-Experiência em análise de dados clínicos e construção de soluções que integram **backend, machine learning e interfaces web**.
+Desenvolvedora em formação, com formação inicial em Biomedicina e interesse em criar soluções que unam tecnologia, dados e saúde. Tenho focado meus estudos e projetos em Python, desenvolvimento full stack, automação e IA aplicada, buscando transformar necessidades reais em aplicações funcionais.
 
 🎯 Meu objetivo é construir produtos que resolvam problemas reais, principalmente nas áreas de **saúde, dados e automação com IA**.
 
