@@ -74,5 +74,5 @@ Sistema preditivo para recomendação de veículos com menor consumo.
 
 ---
 
-💡*“Construo soluções que conectam dados, tecnologia e saúde para gerar impacto real.”*
+*💡“Construo soluções que conectam dados, tecnologia e saúde para gerar impacto real.”*
 
