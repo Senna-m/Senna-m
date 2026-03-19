@@ -66,16 +66,6 @@ Sistema preditivo para recomendação de veículos com menor consumo.
 
 ---
 
-## 🔄 Próximos Passos
-
-- Evoluir projetos para arquitetura com FastAPI
-- Implementar autenticação com JWT
-- Deploy em cloud (AWS / GCP)
-- Adicionar testes automatizados
-- Expandir uso de IA em produtos
-
----
-
 ## 📫 Contato
 
 - GitHub: https://github.com/Senna-m
