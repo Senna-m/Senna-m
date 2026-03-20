@@ -1,4 +1,4 @@
-# 👩‍💻 Nathalie Senna
+# 👩‍💻 Nathalie Matos
 
 Desenvolvedora em formação, com formação inicial em Biomedicina e interesse em criar soluções que unam tecnologia, dados e saúde. Tenho focado meus estudos e projetos em Python, desenvolvimento full stack, automação e IA aplicada, buscando transformar necessidades reais em aplicações funcionais.
 
